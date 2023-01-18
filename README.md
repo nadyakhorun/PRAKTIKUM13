@@ -75,14 +75,14 @@ Kelas : TI.22.A1
 - Requests merupakan library HTTP untuk proses mengirim dan mengambil data menggunakan protokol HTTP.
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah ini :
 
-![6](https://user-images.githubusercontent.com/115867244/212944496-3b3649e9-05a4-4ff3-9938-e1de45744a13.png)
-
+![2](https://user-images.githubusercontent.com/115801823/213177863-0bd15664-5a0f-4493-81f9-3ad66bd74106.PNG)
 
 #### BeautifulSoup
 - BeautifulSoup merupakan library yang digunakan untuk proses web scraping halaman HTML dan XML.
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah ini :
 
-![7](https://user-images.githubusercontent.com/115867244/212944810-d6112c70-2f13-42f0-91ec-2cfead6898a2.png)
+![3](https://user-images.githubusercontent.com/115801823/213178008-dfc8d0ee-e533-451f-8289-96cd2458e295.PNG)
+
 
 
 #### Pandas
@@ -90,13 +90,11 @@ Kelas : TI.22.A1
 - Penggunaan Pandas umumnya disingkat menjadi pd. Format penulisan saat akan memanggil library Pandas adalah `import pandas as pd`. Ingat untuk selalu import library yang akan digunakan terlebih dahulu.
 - Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah ini :
 
-![8](https://user-images.githubusercontent.com/115867244/212945480-73b511c6-18da-439d-8227-ef92770f579b.png)
-
+![4](https://user-images.githubusercontent.com/115801823/213178061-128c30c0-a281-47ee-86f9-4855afdda00e.PNG)
 
 - Untuk melihat daftar package yang telah terinstall gunakan perintah `pip list`
 
-![9](https://user-images.githubusercontent.com/115867244/212945802-31717b67-68ce-4b7b-a6d9-525b9c22aa1e.png)
-
+![5](https://user-images.githubusercontent.com/115801823/213178114-4c8239f3-de8b-48e6-9a8b-95f7ad5f0d03.PNG)
 
 #### Google Colab 
 1. Kunjungi tautan berikut untuk membuat project baru : https://colab.research.google.com/
