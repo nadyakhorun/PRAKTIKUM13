@@ -105,27 +105,28 @@ Kelas : TI.22.A1
 
 4. Beri nama proyeknya, untuk tampilannya seperti pada gambar di bawah ini :
 
-![10](https://user-images.githubusercontent.com/115867244/212947003-3107571c-4991-4228-bfdb-be05ac728b72.png)
+![7](https://user-images.githubusercontent.com/115801823/213186027-1b2b4e38-4e70-439f-8325-d2310dfd1d85.PNG)
 
 
 5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti pada gambar dibawah ini :
 
-![11](https://user-images.githubusercontent.com/115867244/212947299-ca80b64c-d000-43aa-b128-be8eab976534.png)
+![6](https://user-images.githubusercontent.com/115801823/213186074-a3a1adc7-24f8-471a-9622-59ba45621feb.PNG)
 
 
-6. Kemudian ketik program yang akan dijalankan (Saya menggunakan program Studi Kasus 4: BukaLapak (URL : https://www.bukalapak.com/c/komputer/laptop?from=nav_header)
+6. Kemudian ketik program yang akan dijalankan (Saya menggunakan program Studi Kasus 4: BukaLapak (URL : https://realpython.github.io/fake-jobs/)
 
-![12](https://user-images.githubusercontent.com/115867244/212950100-ce21c7b2-dab8-4e32-9051-269b9b68bc70.png)
+![8](https://user-images.githubusercontent.com/115801823/213186157-6049c587-815b-4885-bb45-d2bd4fef0a78.PNG)
 
 
 7. Untuk tampilan lengkapnya sebagai berikut :
 
-![13](https://user-images.githubusercontent.com/115867244/212950391-2ec3d94a-2e1d-4e4b-9bdc-8e08b5a36bc3.png)
+![10](https://user-images.githubusercontent.com/115801823/213186212-bfd171c9-18fc-4701-8f7a-84c06e6c076b.PNG)
 
 
 8. JJika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah ini :
 
-![14](https://user-images.githubusercontent.com/115867244/212950863-3c0b6f20-474f-4d7b-a0af-57fc793c0dcb.png)
+![9](https://user-images.githubusercontent.com/115801823/213186247-7630b20a-3306-4ea0-b5c9-10837363abae.PNG)
+
 
 
 ## Sekian, Terimakasih
